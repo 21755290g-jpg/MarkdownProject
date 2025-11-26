@@ -1,0 +1,45 @@
+commit 735eb1a3b337681aeb382f8f2b52b4f18fcd2dec
+Author: AitorB <21755290G@iespoblenou.org>
+Date:   Wed Nov 26 08:22:50 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md      | 8 ++++++++
+ MarkdownProject | 1 +
+ 2 files changed, 9 insertions(+)
+
+commit 46e87fb389b9fbcf2e2b0e1069f0b98e08a5fc7f
+Author: AitorB <21755290G@iespoblenou.org>
+Date:   Wed Nov 12 09:04:35 2025 +0100
+
+    update 3 from local branch
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 35bf9a98369b26b5612ea90c9a36f17d0752a85c
+Author: AitorB <21755290G@iespoblenou.org>
+Date:   Wed Nov 12 08:47:48 2025 +0100
+
+    modified from local 2
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 01a10ca83c6733a96a5e7734c26224b3eaa49f67
+Author: AitorB <21755290G@iespoblenou.org>
+Date:   Wed Nov 12 08:35:55 2025 +0100
+
+    update 1 from local
+
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 1d6b7d75693d60fe816ce7c91680a185875525f2
+Author: 21755290g-jpg <21755290g@iespoblenou.org>
+Date:   Wed Nov 12 08:26:26 2025 +0100
+
+    Initial commit
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
